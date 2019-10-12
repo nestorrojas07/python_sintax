@@ -1,0 +1,2 @@
+Desde un archivo de texto
+Lo puedo leer asi de facil con python
